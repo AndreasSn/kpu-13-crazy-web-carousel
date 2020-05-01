@@ -1,0 +1,11 @@
+kpu-photo-carousel {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    padding-top: 10px;
+    flex-direction: column;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
